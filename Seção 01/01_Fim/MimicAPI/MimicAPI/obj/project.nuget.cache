@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "getGSFvFR+qxeNERb9S8lGi5ykCtAloAOBWL0Q8KkNBgCiulsINSSxqxE2wIbEPOqkTCDODHYUMqUdmoB6jUNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\argen\\OneDrive\\Área de Trabalho\\ASP.NET Core - WebAPI\\Seção 01\\01_Fim\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\argen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
